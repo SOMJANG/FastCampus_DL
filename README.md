@@ -17,3 +17,6 @@
 
 ### 2020. 06. 22 월요일
 ### DAY05 - MNIST with TF2.0 / TF2.0 Layer 살펴보기 1 - CNN
+
+### 2020. 06. 23 화요일
+### DAY06 - TF2.0 Layer 살펴보기 2 - CNN / TF2.0 Basic CNN
