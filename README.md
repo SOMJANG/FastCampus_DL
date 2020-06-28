@@ -20,3 +20,6 @@
 
 ### 2020. 06. 23 화요일
 ### DAY06 - TF2.0 Layer 살펴보기 2 - CNN / TF2.0 Basic CNN
+
+### 2020. 06. 24 수요일
+### DAY07 - TF2.0 Optimizer and Training
