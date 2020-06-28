@@ -23,3 +23,6 @@
 
 ### 2020. 06. 24 수요일
 ### DAY07 - TF2.0 Optimizer and Training
+
+### 2020. 06. 28 일요일
+### DAY08 - TF2.0 Optimizer and Training (Expert) / TF2.0 Evaluating_and_Predicting
